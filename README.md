@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GodOrAFK/Alphaphobia/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo hier" width="80" height="80">
   </a>
 
   <h3 align="center">Alphaphobia</h3>
@@ -80,18 +80,8 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Get the game at [Alphaphobia/Release](https://github.com/GodOrAFK/Alphaphobia/releases)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Unpack the .zip Folder.
+3. Start the .exe
 
 
 
@@ -107,7 +97,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/GodOrAFK/Alphaphobia/issues) for a list of proposed features (and known issues).
 
 
 
@@ -130,7 +120,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/GodOrAFK/Alphaphobia](https://github.com/GodOrAFK/Alphaphobia)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
